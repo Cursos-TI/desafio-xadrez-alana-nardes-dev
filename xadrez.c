@@ -46,7 +46,7 @@ int main() {
 
     printf("\n\nBispo:\n\n");
 
-    // Loop Aninhado Recursivo para imprimir o movimento do Bispo. O Bispo se move para cima e para a direita 5 vezes ("Cima Direita"), reprentando o movimento para a Diagonal Superior Direita.
+    // Loop Aninhado Recursivo para imprimir o movimento do Bispo. O Bispo se move para cima e para a direita 5 vezes ("Cima Direita"), representando o movimento para a Diagonal Superior Direita.
     movimentoBispo(quantidadeBispo); // Chamada da função recursiva, com o valor inicial definido na variável quantidade, que será usada como parâmetro para executar o loop, até que a condição do Loop Recursivo Aninhado do respectivo procedimento, se torne falsa.
     
 
